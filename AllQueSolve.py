@@ -45,5 +45,3 @@ if len(lst)<3:
     print("Not possible")
 else:
     print(lst[1:-1])
-        
-            
